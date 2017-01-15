@@ -1,0 +1,9 @@
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\bin\Debug\ThreadLab5.exe.config
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\obj\Debug\ThreadLab5.csprojResolveAssemblyReference.cache
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\obj\Debug\ThreadLab5.MainForm.resources
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\obj\Debug\ThreadLab5.csproj.GenerateResource.Cache
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\obj\Debug\ThreadLab5.Properties.Resources.resources
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\bin\Debug\ThreadLab5.exe
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\bin\Debug\ThreadLab5.pdb
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\obj\Debug\ThreadLab5.exe
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab5\ThreadLab5\obj\Debug\ThreadLab5.pdb

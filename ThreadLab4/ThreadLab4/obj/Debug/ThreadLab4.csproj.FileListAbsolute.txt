@@ -1,0 +1,9 @@
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab4\ThreadLab4\bin\Debug\ThreadLab4.exe.config
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\obj\Debug\ThreadLab4.csprojResolveAssemblyReference.cache
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\obj\Debug\ThreadLab4.MainForm.resources
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\obj\Debug\ThreadLab4.Properties.Resources.resources
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\obj\Debug\ThreadLab4.csproj.GenerateResource.Cache
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\bin\Debug\ThreadLab4.exe
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\bin\Debug\ThreadLab4.pdb
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\obj\Debug\ThreadLab4.exe
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab4\ThreadLab4\obj\Debug\ThreadLab4.pdb

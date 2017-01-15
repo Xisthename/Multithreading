@@ -1,0 +1,27 @@
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.exe.config
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.csprojResolveAssemblyReference.cache
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.Screen.resources
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.Properties.Resources.resources
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.csproj.GenerateResource.Cache
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.exe
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.pdb
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.exe
+C:\Users\xisth\Documents\Visual Studio 2015\Projects\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.exe.config
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.exe
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.exe
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.csprojResolveAssemblyReference.cache
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.Screen.resources
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.Properties.Resources.resources
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.csproj.GenerateResource.Cache
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.exe.config
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.exe
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.csprojResolveAssemblyReference.cache
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.Screen.resources
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.Properties.Resources.resources
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\obj\Debug\ThreadLab1.csproj.GenerateResource.Cache
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.exe
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Labb1\ThreadLab1 With Comments\ThreadLab1\ThreadLab1\bin\Debug\ThreadLab1.pdb

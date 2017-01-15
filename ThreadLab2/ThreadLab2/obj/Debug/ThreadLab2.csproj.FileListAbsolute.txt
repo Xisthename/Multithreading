@@ -1,0 +1,18 @@
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\bin\Debug\ThreadLab2.exe.config
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\bin\Debug\ThreadLab2.exe
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\bin\Debug\ThreadLab2.pdb
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.csprojResolveAssemblyReference.cache
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.Screen.resources
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.Properties.Resources.resources
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.csproj.GenerateResource.Cache
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.exe
+c:\users\xisth\documents\visual studio 2015\Projects\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\bin\Debug\ThreadLab2.exe.config
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.exe
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\bin\Debug\ThreadLab2.exe
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\bin\Debug\ThreadLab2.pdb
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.csprojResolveAssemblyReference.cache
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.Screen.resources
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.Properties.Resources.resources
+C:\Users\xisth\Desktop\Skola\Flertrådad Programmering\Temp\ThreadLab2\ThreadLab2\obj\Debug\ThreadLab2.csproj.GenerateResource.Cache
